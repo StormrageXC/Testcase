@@ -1,7 +1,7 @@
-const fs = require('fs'),
-    debuglog = require('util').debuglog('hello');
-debuglog('hello');
-console.log(process.debuglog);
+// const fs = require('fs'),
+//     debuglog = require('util').debuglog('hello');
+// debuglog('hello');
+// console.log(process.debuglog);
 var assert = require('assert');
 
 function square(a) {
