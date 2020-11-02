@@ -1,0 +1,25 @@
+{
+    "name": "Testcase",
+    "version": "1.0.0",
+    "description": "",
+    "main": "debug.js",
+    "dependencies": {
+        "clarify": "^2.1.0",
+        "trace": "^3.1.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "set DEBUG='hello' && node debug.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/StormrageXC/Testcase.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/StormrageXC/Testcase/issues"
+    },
+    "homepage": "https://github.com/StormrageXC/Testcase#readme"
+}

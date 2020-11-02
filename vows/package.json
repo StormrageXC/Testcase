@@ -1,0 +1,19 @@
+{
+    "name": "vows-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "vows test/*.js"
+    },
+    "scripts": {
+        "test": "vows test/*.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "vows": "^0.8.3"
+    },
+    "dependencies": {}
+}
